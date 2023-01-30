@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangularArray", "RectangularArray.csproj", "{B286167D-FEF2-4481-B6C8-7B9E02CF955D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B286167D-FEF2-4481-B6C8-7B9E02CF955D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B286167D-FEF2-4481-B6C8-7B9E02CF955D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B286167D-FEF2-4481-B6C8-7B9E02CF955D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B286167D-FEF2-4481-B6C8-7B9E02CF955D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9253F18-9F76-4672-949B-A70367BBDC6D}
+	EndGlobalSection
+EndGlobal

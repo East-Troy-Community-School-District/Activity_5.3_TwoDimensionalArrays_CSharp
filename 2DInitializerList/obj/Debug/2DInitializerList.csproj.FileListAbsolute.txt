@@ -1,0 +1,6 @@
+C:\Users\Nolan Pawelski\Desktop\2DInitializerList\bin\Debug\2DInitializerList.exe.config
+C:\Users\Nolan Pawelski\Desktop\2DInitializerList\bin\Debug\2DInitializerList.exe
+C:\Users\Nolan Pawelski\Desktop\2DInitializerList\bin\Debug\2DInitializerList.pdb
+C:\Users\Nolan Pawelski\Desktop\2DInitializerList\obj\Debug\2DInitializerList.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\2DInitializerList\obj\Debug\2DInitializerList.exe
+C:\Users\Nolan Pawelski\Desktop\2DInitializerList\obj\Debug\2DInitializerList.pdb

@@ -1,0 +1,7 @@
+C:\Users\Nolan Pawelski\Desktop\SeatingChart\bin\Debug\SeatingChart.exe.config
+C:\Users\Nolan Pawelski\Desktop\SeatingChart\bin\Debug\SeatingChart.exe
+C:\Users\Nolan Pawelski\Desktop\SeatingChart\bin\Debug\SeatingChart.pdb
+C:\Users\Nolan Pawelski\Desktop\SeatingChart\obj\Debug\SeatingChart.csproj.AssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\SeatingChart\obj\Debug\SeatingChart.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\SeatingChart\obj\Debug\SeatingChart.exe
+C:\Users\Nolan Pawelski\Desktop\SeatingChart\obj\Debug\SeatingChart.pdb

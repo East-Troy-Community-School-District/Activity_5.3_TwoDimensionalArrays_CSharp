@@ -1,0 +1,6 @@
+C:\Users\Nolan Pawelski\Desktop\RectangularArray\bin\Debug\RectangularArray.exe.config
+C:\Users\Nolan Pawelski\Desktop\RectangularArray\bin\Debug\RectangularArray.exe
+C:\Users\Nolan Pawelski\Desktop\RectangularArray\bin\Debug\RectangularArray.pdb
+C:\Users\Nolan Pawelski\Desktop\RectangularArray\obj\Debug\RectangularArray.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\RectangularArray\obj\Debug\RectangularArray.exe
+C:\Users\Nolan Pawelski\Desktop\RectangularArray\obj\Debug\RectangularArray.pdb

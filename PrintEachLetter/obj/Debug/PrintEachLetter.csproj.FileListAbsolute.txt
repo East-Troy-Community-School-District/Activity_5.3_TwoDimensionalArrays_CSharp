@@ -1,0 +1,6 @@
+C:\Users\Nolan Pawelski\Desktop\PrintEachLetter\bin\Debug\PrintEachLetter.exe.config
+C:\Users\Nolan Pawelski\Desktop\PrintEachLetter\bin\Debug\PrintEachLetter.exe
+C:\Users\Nolan Pawelski\Desktop\PrintEachLetter\bin\Debug\PrintEachLetter.pdb
+C:\Users\Nolan Pawelski\Desktop\PrintEachLetter\obj\Debug\PrintEachLetter.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\PrintEachLetter\obj\Debug\PrintEachLetter.exe
+C:\Users\Nolan Pawelski\Desktop\PrintEachLetter\obj\Debug\PrintEachLetter.pdb

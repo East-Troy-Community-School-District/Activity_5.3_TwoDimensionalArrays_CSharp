@@ -1,0 +1,7 @@
+C:\Users\Nolan Pawelski\Desktop\CountRowsColumns\bin\Debug\CountRowsColumns.exe.config
+C:\Users\Nolan Pawelski\Desktop\CountRowsColumns\bin\Debug\CountRowsColumns.exe
+C:\Users\Nolan Pawelski\Desktop\CountRowsColumns\bin\Debug\CountRowsColumns.pdb
+C:\Users\Nolan Pawelski\Desktop\CountRowsColumns\obj\Debug\CountRowsColumns.csproj.AssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\CountRowsColumns\obj\Debug\CountRowsColumns.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\CountRowsColumns\obj\Debug\CountRowsColumns.exe
+C:\Users\Nolan Pawelski\Desktop\CountRowsColumns\obj\Debug\CountRowsColumns.pdb

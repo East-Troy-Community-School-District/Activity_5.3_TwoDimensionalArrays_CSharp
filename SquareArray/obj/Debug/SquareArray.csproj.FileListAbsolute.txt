@@ -1,0 +1,7 @@
+C:\Users\Nolan Pawelski\Desktop\SquareArray\bin\Debug\SquareArray.exe.config
+C:\Users\Nolan Pawelski\Desktop\SquareArray\bin\Debug\SquareArray.exe
+C:\Users\Nolan Pawelski\Desktop\SquareArray\bin\Debug\SquareArray.pdb
+C:\Users\Nolan Pawelski\Desktop\SquareArray\obj\Debug\SquareArray.csproj.AssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\SquareArray\obj\Debug\SquareArray.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\SquareArray\obj\Debug\SquareArray.exe
+C:\Users\Nolan Pawelski\Desktop\SquareArray\obj\Debug\SquareArray.pdb
